@@ -1,3 +1,7 @@
+# Dummy CLI
+
+Node.js CLI example
+
 ## Testing the CLI
 
 Install the CLI using global package
